@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/koothropali-react/precache-manifest.080d13508af50ef2201edd06d5e235e2.js"
+  "/Koothropali-React/precache-manifest.c481a6f9b261f5fdf37409ed5b41f07e.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/koothropali-react/index.html", {
+workbox.routing.registerNavigationRoute("/Koothropali-React/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

@@ -1,13 +1,13 @@
 {
-  "main.css": "/koothropali-react/static/css/main.77db969f.chunk.css",
-  "main.js": "/koothropali-react/static/js/main.01ea84cd.chunk.js",
-  "main.js.map": "/koothropali-react/static/js/main.01ea84cd.chunk.js.map",
-  "static/js/1.f4789f78.chunk.js": "/koothropali-react/static/js/1.f4789f78.chunk.js",
-  "static/js/1.f4789f78.chunk.js.map": "/koothropali-react/static/js/1.f4789f78.chunk.js.map",
-  "runtime~main.js": "/koothropali-react/static/js/runtime~main.e330346a.js",
-  "runtime~main.js.map": "/koothropali-react/static/js/runtime~main.e330346a.js.map",
-  "static/css/main.77db969f.chunk.css.map": "/koothropali-react/static/css/main.77db969f.chunk.css.map",
-  "index.html": "/koothropali-react/index.html",
-  "precache-manifest.080d13508af50ef2201edd06d5e235e2.js": "/koothropali-react/precache-manifest.080d13508af50ef2201edd06d5e235e2.js",
-  "service-worker.js": "/koothropali-react/service-worker.js"
+  "main.css": "/Koothropali-React/static/css/main.77db969f.chunk.css",
+  "main.js": "/Koothropali-React/static/js/main.29d61da9.chunk.js",
+  "main.js.map": "/Koothropali-React/static/js/main.29d61da9.chunk.js.map",
+  "static/js/1.f4789f78.chunk.js": "/Koothropali-React/static/js/1.f4789f78.chunk.js",
+  "static/js/1.f4789f78.chunk.js.map": "/Koothropali-React/static/js/1.f4789f78.chunk.js.map",
+  "runtime~main.js": "/Koothropali-React/static/js/runtime~main.9069a192.js",
+  "runtime~main.js.map": "/Koothropali-React/static/js/runtime~main.9069a192.js.map",
+  "static/css/main.77db969f.chunk.css.map": "/Koothropali-React/static/css/main.77db969f.chunk.css.map",
+  "index.html": "/Koothropali-React/index.html",
+  "precache-manifest.c481a6f9b261f5fdf37409ed5b41f07e.js": "/Koothropali-React/precache-manifest.c481a6f9b261f5fdf37409ed5b41f07e.js",
+  "service-worker.js": "/Koothropali-React/service-worker.js"
 }
